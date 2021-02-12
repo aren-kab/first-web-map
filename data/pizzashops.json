@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Chris",
+    "pizzashop": "Ben's Pizza",
+    "message": "I like to stop here for a slice before heading to NYU classes.",
+    "program": "instructor",
+    "longitude": -74.00030626,
+    "latitude": 40.73043063
+  },
+  {
+    "name": "Jason",
+    "pizzashop": "Not Ray's",
+    "message": "It's $3 now, but gentrification, amiright?",
+    "program": "MUP",
+    "longitude": -73.97410275,
+    "latitude": 40.68611233
+  },
+  {
+    "name": "Caroline",
+    "pizzashop": "Archie's",
+    "message": "RIP Nothing compares </3",
+    "program": "MUP",
+    "longitude": -73.9279788,
+    "latitude": 40.7041613
+  },
+  {
+    "name": "Ryan",
+    "pizzashop": "Scarr's Pizza",
+    "message": "Best of the Lower East Side?",
+    "program": "MUP",
+    "longitude": -73.99114544,
+    "latitude": 40.71553209
+  },
+  {
+    "name": "Nick",
+    "pizzashop": "L'Industrie Pizzeria",
+    "message": "Fig and goat cheese!",
+    "program": "MUP",
+    "longitude": -73.95786807,
+    "latitude": 40.71161165
+  },
+  {
+    "name": "Kirsten",
+    "pizzashop": "Napoli Pizza & Pasta",
+    "message": "Best fried eggplant pizza!",
+    "program": "Steinhardt",
+    "longitude": -73.92679017,
+    "latitude": 40.75800494
+  },
+  {
+    "name": "Elisabeth",
+    "pizzashop": "Roberta's",
+    "message": "breakfast pizza yum",
+    "program": "MUP",
+    "longitude": -73.93350863,
+    "latitude": 40.70517235
+  },
+  {
+    "name": "Winnie",
+    "pizzashop": "Santa Panza",
+    "message": "Simple and tasty pizza & pasta!",
+    "program": "MUP",
+    "longitude": -73.93069,
+    "latitude": 40.69472
+  },
+  {
+    "name": "Alyx",
+    "pizzashop": "Artichoke Basille",
+    "message": "Amazing artichoke white sauce",
+    "program": "MPA",
+    "longitude": -73.9837582,
+    "latitude": 40.73236993
+  },
+  {
+    "name": "Billy",
+    "pizzashop": "Rose's",
+    "message": "Train Pizza",
+    "program": "MUP",
+    "longitude": -73.9906,
+    "latitude": 40.7196
+  },
+  {
+    "name": "Kate",
+    "pizzashop": "Roberta's",
+    "message": "Try the frocos!",
+    "program": "MUP",
+    "longitude": -73.93350863,
+    "latitude": 40.70517235
+  },
+  {
+    "name": "Alex",
+    "pizzashop": "Rosa's Pizza",
+    "message": "More expensive than I'd like, and yet I went there today....",
+    "program": "MUP",
+    "longitude": -73.92965018,
+    "latitude": 40.76705665
+  },
+  {
+    "name": "Kelsey",
+    "pizzashop": "Williamsburg Pizza",
+    "message": "So good they had to bring it to the UES",
+    "program": "CUSP",
+    "longitude": -73.95295127,
+    "latitude": 40.77674509
+  },
+  {
+    "name": "Alana",
+    "pizzashop": "L'Industrie Pizzeria",
+    "message": "they are shut down untill march for renovations :(",
+    "program": "MUP",
+    "longitude": -73.95812659,
+    "latitude": 40.71223963
+  },
+  {
+    "name": "Aren",
+    "pizzashop": "L'Arte Della Pizza",
+    "message": "A good quick neighborhood slice, so it's my favorite now",
+    "program": "CUSP",
+    "longitude": -73.9821459,
+    "latitude": 40.6776064
+  },
+  {
+    "name": "James",
+    "pizzashop": "Connie's Pizza",
+    "message": "Used to eat it a lot as a kid and really liked it",
+    "program": "MUP",
+    "longitude": -87.7809358,
+    "latitude": 41.8491836
+  },
+  {
+    "name": "Matt",
+    "pizzashop": "Scarr's Pizza",
+    "message": "Agree with Ryan",
+    "program": "MUP",
+    "longitude": -73.991520614,
+    "latitude": 40.71545004
+  },
+  {
+    "name": "Yash",
+    "pizzashop": "Artichoke Basille's Pizza",
+    "message": "Love the amount of cheese in it!!",
+    "program": "TSE",
+    "longitude": -73.9837582,
+    "latitude": 40.73236993
+  },
+  {
+    "name": "Alba",
+    "pizzashop": "Justino's",
+    "message": "Such good pizza, big slices!",
+    "program": "CUSP",
+    "longitude": -73.98859225,
+    "latitude": 40.7699734
+  }
+]
